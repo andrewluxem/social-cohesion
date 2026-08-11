@@ -1,0 +1,23 @@
+{
+  "name": "social-cohesion",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Builds a voluntary team cohesion plan with inclusion, access, boundaries, and review measures. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "social-cohesion",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Builds a voluntary team cohesion plan with inclusion, access, boundaries, and review measures. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "team-cohesion",
+        "inclusion"
+      ]
+    }
+  ]
+}
