@@ -1,0 +1,17 @@
+{
+  "name": "social-cohesion",
+  "version": "1.0.0",
+  "description": "Builds a voluntary team cohesion plan with inclusion, access, boundaries, and review measures. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/social-cohesion",
+  "repository": "https://github.com/andrewluxem/social-cohesion",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "team-cohesion",
+    "inclusion"
+  ]
+}
